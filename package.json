@@ -12,7 +12,7 @@
     "ual-reactjs-renderer": "npm:@cmichel/ual-reactjs-renderer@^0.4.0",
     "ual-scatter": "^0.3.0",
     "ual-starteos": "^0.3.1",
-    "ual-wax": "npm:@eosdacio/ual-wax@^1.7.0",
+    "ual-wax": "npm:@eosdacio/ual-wax@^1.9.0",
     "ual-wombat": "^0.3.3",
     "web-vitals": "^2.1.4"
   },
